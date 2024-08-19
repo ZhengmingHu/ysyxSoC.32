@@ -1,0 +1,12 @@
+{
+    "value": [
+        "ref:v0:fcb8a0ae:/home/zcy/ysyx/ysyx-workbench/ysyxSoC/rocket-chip/cde/common.sc",
+        "ref:v0:54e0be05:/home/zcy/ysyx/ysyx-workbench/ysyxSoC/build.sc",
+        "ref:v0:e661bde3:/home/zcy/ysyx/ysyx-workbench/ysyxSoC/rocket-chip/hardfloat/build.sc",
+        "ref:v0:97b300ce:/home/zcy/ysyx/ysyx-workbench/ysyxSoC/rocket-chip/hardfloat/common.sc",
+        "ref:v0:55c34c04:/home/zcy/ysyx/ysyx-workbench/ysyxSoC/rocket-chip/common.sc",
+        "ref:v0:7f7c6f9b:/home/zcy/ysyx/ysyx-workbench/ysyxSoC/out/mill-build/generateScriptSources.dest"
+    ],
+    "valueHash": 1111727257,
+    "inputsHash": 678623434
+}

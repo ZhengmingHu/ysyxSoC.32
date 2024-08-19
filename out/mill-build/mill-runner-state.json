@@ -1,0 +1,89 @@
+{
+    "workerCache": {
+        "mill.scalalib.ZincWorkerModule.worker": {
+            "identityHashCode": 1908703034,
+            "inputHash": -1959128613
+        }
+    },
+    "evalWatched": [
+        "ref:v0:c984eca8:/home/zcy/ysyx/ysyx-workbench/ysyxSoC/mill-build/resources",
+        "ref:v0:c984eca8:/home/zcy/ysyx/ysyx-workbench/ysyxSoC/mill-build/compile-resources",
+        "ref:v0:fcb8a0ae:/home/zcy/ysyx/ysyx-workbench/ysyxSoC/rocket-chip/cde/common.sc",
+        "ref:v0:54e0be05:/home/zcy/ysyx/ysyx-workbench/ysyxSoC/build.sc",
+        "ref:v0:e661bde3:/home/zcy/ysyx/ysyx-workbench/ysyxSoC/rocket-chip/hardfloat/build.sc",
+        "ref:v0:97b300ce:/home/zcy/ysyx/ysyx-workbench/ysyxSoC/rocket-chip/hardfloat/common.sc",
+        "ref:v0:55c34c04:/home/zcy/ysyx/ysyx-workbench/ysyxSoC/rocket-chip/common.sc",
+        "qref:v0:ddd0aefd:/home/zcy/ysyx/ysyx-workbench/ysyxSoC/out/mill-launcher/0.11.7.jar",
+        "ref:v0:c984eca8:/home/zcy/ysyx/ysyx-workbench/ysyxSoC/mill-build/src"
+    ],
+    "moduleWatched": [],
+    "scriptImportGraph": [
+        [
+            "/home/zcy/ysyx/ysyx-workbench/ysyxSoC/rocket-chip/common.sc",
+            [
+                1038995944,
+                []
+            ]
+        ],
+        [
+            "/home/zcy/ysyx/ysyx-workbench/ysyxSoC/build.sc",
+            [
+                -1657729494,
+                [
+                    "/home/zcy/ysyx/ysyx-workbench/ysyxSoC/rocket-chip/common.sc",
+                    "/home/zcy/ysyx/ysyx-workbench/ysyxSoC/rocket-chip/cde/common.sc",
+                    "/home/zcy/ysyx/ysyx-workbench/ysyxSoC/rocket-chip/hardfloat/build.sc"
+                ]
+            ]
+        ],
+        [
+            "/home/zcy/ysyx/ysyx-workbench/ysyxSoC/rocket-chip/cde/common.sc",
+            [
+                689875763,
+                []
+            ]
+        ],
+        [
+            "/home/zcy/ysyx/ysyx-workbench/ysyxSoC/rocket-chip/hardfloat/common.sc",
+            [
+                -873609269,
+                []
+            ]
+        ],
+        [
+            "/home/zcy/ysyx/ysyx-workbench/ysyxSoC/rocket-chip/hardfloat/build.sc",
+            [
+                1315492752,
+                [
+                    "/home/zcy/ysyx/ysyx-workbench/ysyxSoC/rocket-chip/hardfloat/common.sc"
+                ]
+            ]
+        ]
+    ],
+    "classLoaderIdentity": [
+        1753624535
+    ],
+    "runClasspath": [
+        "qref:v1:647bb4c6:/home/zcy/.cache/coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/mill-moduledefs_2.13/0.10.9/mill-moduledefs_2.13-0.10.9.jar",
+        "qref:v1:0004e741:/home/zcy/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.12/scala-library-2.13.12.jar",
+        "qref:v1:388af458:/home/zcy/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.13.12/scala-compiler-2.13.12.jar",
+        "qref:v1:589290b0:/home/zcy/.cache/coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/sourcecode_2.13/0.3.0/sourcecode_2.13-0.3.0.jar",
+        "qref:v1:9ddb38f4:/home/zcy/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.13.12/scala-reflect-2.13.12.jar",
+        "qref:v1:c3fede0e:/home/zcy/.cache/coursier/v1/https/repo1.maven.org/maven2/io/github/java-diff-utils/java-diff-utils/4.12/java-diff-utils-4.12.jar",
+        "qref:v1:cc689ca3:/home/zcy/.cache/coursier/v1/https/repo1.maven.org/maven2/org/jline/jline/3.22.0/jline-3.22.0.jar",
+        "qref:v1:85acd520:/home/zcy/.cache/coursier/v1/https/repo1.maven.org/maven2/net/java/dev/jna/jna/5.13.0/jna-5.13.0.jar",
+        "ref:v0:c984eca8:/home/zcy/ysyx/ysyx-workbench/ysyxSoC/mill-build/compile-resources",
+        "qref:v0:ddd0aefd:/home/zcy/ysyx/ysyx-workbench/ysyxSoC/out/mill-launcher/0.11.7.jar",
+        "qref:v1:18a09afe:/home/zcy/.cache/coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/mill-runner-linenumbers_2.13/0.11.7/mill-runner-linenumbers_2.13-0.11.7.jar",
+        "qref:v1:388af458:/home/zcy/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.13.12/scala-compiler-2.13.12.jar",
+        "qref:v1:0004e741:/home/zcy/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.12/scala-library-2.13.12.jar",
+        "qref:v1:647bb4c6:/home/zcy/.cache/coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/mill-moduledefs_2.13/0.10.9/mill-moduledefs_2.13-0.10.9.jar",
+        "qref:v1:9ddb38f4:/home/zcy/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.13.12/scala-reflect-2.13.12.jar",
+        "qref:v1:c3fede0e:/home/zcy/.cache/coursier/v1/https/repo1.maven.org/maven2/io/github/java-diff-utils/java-diff-utils/4.12/java-diff-utils-4.12.jar",
+        "qref:v1:cc689ca3:/home/zcy/.cache/coursier/v1/https/repo1.maven.org/maven2/org/jline/jline/3.22.0/jline-3.22.0.jar",
+        "qref:v1:85acd520:/home/zcy/.cache/coursier/v1/https/repo1.maven.org/maven2/net/java/dev/jna/jna/5.13.0/jna-5.13.0.jar",
+        "qref:v1:589290b0:/home/zcy/.cache/coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/sourcecode_2.13/0.3.0/sourcecode_2.13-0.3.0.jar",
+        "ref:v0:e00126f5:/home/zcy/ysyx/ysyx-workbench/ysyxSoC/out/mill-build/compile.dest/classes"
+    ],
+    "runClasspathHash": -85002537
+}
